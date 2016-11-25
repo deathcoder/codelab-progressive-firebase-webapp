@@ -1,0 +1,22 @@
+{
+  "name": "public",
+  "homepage": "https://github.com/deathcoder/codelab-progressive-firebase-webapp",
+  "description": "codelab progressive firebase webapp",
+  "main": "index.html",
+  "authors": [
+    "davide"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "note-app-elements": "polymerlabs/note-app-elements",
+    "polymerfire": "firebase/polymerfire#^0.10.3"
+  }
+}
